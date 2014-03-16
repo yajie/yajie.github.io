@@ -22,12 +22,12 @@ db.testData.insert(wyj)</br>
 db.testData.find()</br>
 
 <div>
-注释：
-1、什么是文档？
-mongodb中的最基本的数据单元，类似于RDBMS中一个表的一条记录。
-
-2、什么是collection?
-mongodb中的collection类似于RDBMS中的表，但是一个collection中的文档可以有不同的字段，一般来说，同一个collection中的文档之间应该有着强相关的关系。
+注释：</br>
+1、什么是文档？</br>
+mongodb中的最基本的数据单元，类似于RDBMS中一个表的一条记录。</br>
+</br>
+2、什么是collection?	</br>
+mongodb中的collection类似于RDBMS中的表，但是一个collection中的文档可以有不同的字段，一般来说，同一个collection中的文档之间应该有着强相关的关系。</br>
 </div>
 
 </br>
