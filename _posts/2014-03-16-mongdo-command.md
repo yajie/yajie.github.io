@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mongdo常用命令
+title: mongodb常用命令
 ---
 <p>
 show dbs 查看当前有哪些数据库
